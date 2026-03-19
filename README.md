@@ -16,7 +16,6 @@
 
 - 🎮 **[CITY DRIVER](https://kostasmvr.netlify.app)** — Open-world browser driving game built with Three.js
 - 🤖 Exploring AI & autonomous systems
-- ✈️ Aeronautical engineering & drone design
 
 ---
 
