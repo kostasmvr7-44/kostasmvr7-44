@@ -39,16 +39,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kostasmvr7-44&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kostasmvr7-44/kostasmvr7-44/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kostasmvr7-44/kostasmvr7-44/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/kostasmvr7-44/kostasmvr7-44/output/github-snake.svg" />
-  </picture>
-</div>
 
 ---
 
